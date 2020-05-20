@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>Discipline</title>
+  </head>
+  <body>
+  Definiții
+  <table border="10" width="100%">
+  <thead>
+  <td>Literatura universala- arta compozițiilor scrise ale lumii.</td>
+ 
+  </thead>
+  <tr>
+  
+  <td> Matematica- Știință care studiază mărimile, relațiile cantitative și formele spațiale prin raționament deductiv.</td>
+  </tr>
+  <tr>
+  
+  <td>Limba si literatura romana- disciplina care studiaza întreaga literatură scrisă în limba română.</td>
+  </tr>
+  <tr>
+  
+  <td>Limba franceza- disciplina unde se studiaza limba franceza</td>
+  </tr>
+  <tr>
+ 
+  <td>Limba engleza- disciplina unde se studiaza limba engleza</td>
+  </tr>
+  <tr>
+  <td>Istoria- Știință care studiază dezvoltarea treptată a societății omenești.</td>
+  </tr>
+  <tr>
+  <td>Informatica- Știință care se ocupă cu studiul prelucrării informației cu ajutorul sistemelor automate de calcul. </td>
+  </tr>
+  <tr>
+  <td>Geografie- Știință unde se studiază și descrie învelișul terestru, cu toate elementele sale, din punct de vedere fizic, economic, etnografic etc.</td>
+  </tr>
+  <tr>
+  <td>Fizica- Știință a naturii, care studiază proprietățile și structura materiei, transformările ei, legile fenomenelor naturii. </td>
+  </tr>
+  <tr>
+  <td>Educatia pentru societate- disciplina in care se studiaza modelarea personalităţii elevului în spiritulvalorilor şi principiilor democratice care guvernează demersul societăţii.</td>
+  </tr>
+  <tr>
+  <td>Educatia fizica- disciplina care necesita depunerea efortului fizic.</td>
+  </tr>
+  <tr>
+  <td>Dezvoltare personala- disciplina unde se studiaza descoperirea de sine.</td>
+  </tr>
+  <tr>
+  <td>Chimie- Știință care studiază compoziția, structura și proprietățile
+  substanțelor.</td>
+  </tr>
+  <tr>
+  <td>Biologie- Știință unde se studiază viața organismelor vii.</td>
+  </body>
+</html>
